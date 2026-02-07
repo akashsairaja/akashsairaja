@@ -1,16 +1,16 @@
-### Hi there 👋
+ ### Hey, I'm Akash 👋
 
-<!--
-**akashsairaja/akashsairaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I build developer tools that save time.
 
-Here are some ideas to get you started:
+  #### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **[PocketCmds](https://pocketcmds.com)** — Developer command reference with copy-paste ready commands for 80+ tools. Git, Docker, Kubernetes, AWS, and more.
+
+  - 🔍 Instant search across all commands
+  - 📱 Install as app (PWA) for offline access
+  - 🆓 Free, no sign-up required
+
+  #### 💬 Get in Touch
+
+  - 🌐 [pocketcmds.com](https://pocketcmds.com)
+  - 🐛 [Report bugs or request features](https://github.com/akashsairaja/pocketcmds-feedback/issues)
