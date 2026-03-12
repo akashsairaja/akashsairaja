@@ -1,16 +1,29 @@
- ### Hey, I'm Akash 👋
+# Hey, I'm Akash
 
-  I build developer tools that save time.
+Builder of developer tools that respect your time, your privacy, and your workflow.
 
-  #### 🚀 Projects
+Everything I ship is free, runs in the browser, and works offline.
 
-  **[PocketCmds](https://pocketcmds.com)** — Developer command reference with copy-paste ready commands for 80+ tools. Git, Docker, Kubernetes, AWS, and more.
+---
 
-  - 🔍 Instant search across all commands
-  - 📱 Install as app (PWA) for offline access
-  - 🆓 Free, no sign-up required
+### 🚀 Projects
 
-  #### 💬 Get in Touch
+🔧 **[PocketCmds](https://pocketcmds.com)** — Command reference for 80+ tools. Search, copy, run. Git, Docker, K8s, AWS, and more.
 
-  - 🌐 [pocketcmds.com](https://pocketcmds.com)
-  - 🐛 [Report bugs or request features](https://github.com/akashsairaja/pocketcmds-feedback/issues)
+⚡ **[JumpTools](https://jumptools.in)** — 55+ dev utilities that run entirely in your browser. JSON, Base64, images, colors — nothing leaves your device.
+
+---
+
+### Open Source
+
+📦 **[awesome-cli-commands](https://github.com/akashsairaja/awesome-cli-commands)** — 6,200+ CLI commands, recipes, AI agent prompts, and coding rules across 88 developer stacks. The open-source data backbone behind PocketCmds.
+
+---
+
+### Philosophy
+
+Ship tools, not platforms. Keep it free. Keep it fast. Keep it local.
+
+---
+
+**[pocketcmds.com](https://pocketcmds.com)** · **[jumptools.in](https://jumptools.in)** · **[awesome-cli-commands](https://github.com/akashsairaja/awesome-cli-commands)** · [Feedback & Issues](https://github.com/akashsairaja/pocketcmds-feedback/issues)
