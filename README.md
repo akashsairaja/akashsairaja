@@ -7,7 +7,6 @@ Builder of developer tools that respect your time, your privacy, and your workfl
 ### 🚀 Projects
 
 🔧 **[PocketCmds](https://pocketcmds.com)** — Command reference for 80+ tools. Search, copy, run. Git, Docker, K8s, AWS, and more.
-
 ⚡ **[JumpTools](https://jumptools.in)** — 55+ dev utilities that run entirely in your browser. JSON, Base64, images, colors — nothing leaves your device.
 
 ---
