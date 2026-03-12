@@ -24,4 +24,4 @@ Ship tools, not platforms. Keep it free. Keep it fast. Keep it local.
 
 ---
 
-**[pocketcmds.com](https://pocketcmds.com)** · **[jumptools.in](https://jumptools.in)** · **[awesome-cli-commands](https://github.com/akashsairaja/awesome-cli-commands)** · **[Say Hello!](https://cal.com/akashsairaja)**
+**[Say Hello!](https://cal.com/akashsairaja)**
