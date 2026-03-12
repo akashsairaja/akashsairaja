@@ -1,8 +1,6 @@
 # Hey, I'm Akash
 
-Builder of developer tools that respect your time, your privacy, and your workflow.
-
-Everything I ship is free, runs in the browser, and works offline.
+Builder of developer tools that respect your time, your privacy, and your workflow. Everything I ship is free, runs in the browser, and works offline.
 
 ---
 
