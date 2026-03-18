@@ -12,12 +12,6 @@ Builder of developer tools that respect your time, your privacy, and your workfl
 
 ---
 
-### Open Source
-
-📦 **[awesome-cli-commands](https://github.com/akashsairaja/awesome-cli-commands)** — 6,200+ CLI commands, recipes, AI agent prompts, and coding rules across 88 developer stacks. The open-source data backbone behind PocketCmds.
-
----
-
 ### Philosophy
 
 Ship tools, not platforms. Keep it free. Keep it fast. Keep it local.
