@@ -1,10 +1,12 @@
 # Hey, I'm Akash
 
-Builder of developer tools that respect your time, your privacy, and your workflow. Everything I ship is free, runs in the browser, and works offline.
+Builder of developer tools that respect your time, your privacy, and your workflow. Everything I ship is free, fast, and built to stay out of your way.
 
 ---
 
 ### 🚀 Projects
+
+🧘 **[FavTray](https://favtray.com)** — Developer wellness and productivity in your Mac menu bar. Gentle reminders to rest and refocus, without breaking your flow.
 
 🔧 **[PocketCmds](https://pocketcmds.com)** — Command reference for 80+ tools. Search, copy, run. Git, Docker, K8s, AWS, and more.
 
