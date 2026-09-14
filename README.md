@@ -1,6 +1,6 @@
 # Hey, I'm Akash
 
-Builder of tools that respect your time, your privacy, and your workflow. Founder of [Dataetic](https://dataetic.com). Everything else I ship is free, fast, and built to stay out of your way.
+Builder of tools that respect your time, your privacy, and your workflow. Founder of [Dataetic](https://dataetic.com). I also make small, focused tools that do one job well.
 
 ---
 
