@@ -12,6 +12,8 @@ Builder of tools that respect your time, your privacy, and your workflow. Founde
 
 🧘 **[FavTray](https://favtray.com)** — Four hours deep in a problem, you forget to stand up, drink water, or look away from the screen. Gentle reminders from your Mac menu bar that never break your flow.
 
+🐾 **[My Dock Buddies](https://mydockbuddies.com)** — A desktop full of windows is all work and no personality. Small stylized 3D companions that live on your Mac desktop, customizable and collectible.
+
 🔧 **[PocketCmds](https://pocketcmds.com)** — The flag you need is buried three pages into a man page or five posts into a thread. Search, copy, run — 80+ tools, from Git and Docker to K8s and AWS.
 
 ⚡ **[JumpTools](https://jumptools.in)** — Formatting a JSON blob shouldn't mean pasting company data into someone's ad-covered server. 55+ dev utilities — JSON, Base64, images, colors — running entirely in your browser. Nothing leaves your device.
